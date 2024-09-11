@@ -1,4 +1,4 @@
-# [GitHub 中文化插件][project-url]
+# [GitHub 中文化插件][project-url] 我已经重写过哩
 
 > 本项目源自: [52cik/github-hans](https://github.com/52cik/github-hans)
 
